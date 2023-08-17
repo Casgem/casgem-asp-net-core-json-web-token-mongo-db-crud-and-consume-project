@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gM7PekhLUE5mqJkblA//a4iGePNL7sJut0sVM8AFeU5SHVJI4ruhePxzvee5FcF8Dt+lKGeRz1Q0WI9KulFDmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Huseyin_Aydin\\source\\repos\\Product.WebAPI.Consume\\Product.WebAPI.Consume\\Product.WebAPI.Consume\\Product.WebAPI.Consume.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huseyin_Aydin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
