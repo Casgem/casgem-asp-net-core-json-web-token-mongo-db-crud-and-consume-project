@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+<div class="container">
+    <h3>Ürün Ekleme Sayfası</h3>
+    <form method="post">
+        <table class="table-bordered">
+            <tr>
+                <th>Ürün Adı</th>
+                <th>Kategori Id</th>
+                <th>#</th>
+            </tr>
+            <tr>
+                <td><input type="text" name="ProductName" placeholder="Ürün adını giriniz..." /></td>
+                <td><input type="text" name="CategoryId" placeholder="Ürün kategorisini giriniz..." /></td>
+                <td><button class="btn btn-success">Ürün Ekle</button></td>
+            </tr>
+        </table>
+    </form>
+</div>
